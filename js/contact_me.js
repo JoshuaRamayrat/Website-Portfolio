@@ -1,3 +1,21 @@
+$('form#contact_form').validate({
+  messages: { },
+  submitHandler: function(form) {
+    $.ajax({
+      url: "//formspree.io/jramayrat@scu.edu",
+      method: "POST",
+      data: $(form).serialize(),
+      dataType: "json",
+      success: function(data) {
+          $("form#contact_form :input").prop("disabled", true);
+          $('#thanks').show();
+      }
+    });
+    return false;
+  }
+});
+
+
 $(function() {
 
   $("#contactForm input,#contactForm textarea").jqBootstrapValidation({
