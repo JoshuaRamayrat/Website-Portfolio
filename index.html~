@@ -72,11 +72,20 @@
         <div class="col-xs-12" style="height:50px;"></div>
 
         <div class="row">
+<<<<<<< HEAD
           <div class="col-sm-4"><img class="img-fluid circle" src="img\portfolio\profilepic1.jpg" alt=""></div>
           <div class="col-sm-8">
             <p class = "text-sm-left">The truth is that I know almost nothing at all. Reading and studying shows that there's too much to learn and that humbles me. What matters more is the willingness to constantly learn, the ability to put in effort in the face of adversity, and becoming a part of a team that shares a vision. These are the ingredients for creating something remarkable.
             </p>
             <p class = "text-sm-left"> I made this website to showcase some of my personal and group projects. You can click on the images to check out more documentation!
+=======
+          <div class="col-sm-4"><img class="img-fluid circle" src="img\portfolio\profilepic1.png" alt=""></div>
+          <div class="col-sm-8">
+            <p class = "text-sm-left">I developed this website to showcase my work! In June 2017, I received my Bachelors in Mechanical Engineering from Santa Clara University. I enjoy creating projects in my free time and studying various subjects ranging from manufacturing to computer science. I'm deep in the process of learning subjects tailored to my ultimate career goals of product design and mechatronics. Notes and exercises will be uploaded to my personal Github account in the future.
+            </p>
+            <p class = "text-sm-left">My hobbies outside of academics are swimming, BMX, and fitness. I'm secretly competitive by nature - if I truly want something I'll pursue it with an addictive personality. With regards to work ethic, I take my career seriously but I never take myself too seriously. As a result of this, my natural talents for creativity and art have served me well. Below, you can check out prototypes, designs, and subjects that I'm actively engaged in.
+            
+>>>>>>> 315450b71812d3a79f2ab2d7c5b6acc81215c7ce
             </p>    
 	          </div>
 	        </div>
