@@ -590,3 +590,9 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+
+.floated_img
+{
+  float: left;
+}
