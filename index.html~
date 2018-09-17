@@ -78,21 +78,12 @@
         <div class="row">
           <div class="col-sm-4"><img class="img-fluid circle" src="img\portfolio\website circle photo.png" alt=""></div>
           <div class="col-sm-8">
-<<<<<<< HEAD
-            <p class = "text-sm-left">The truth is I know almost nothing at all. Reading and studying only shows that there's too much to learn and that humbles me. What matters more is the willingness to discover, the ability to put in effort with no expectations, and becoming a part of a team that shares a vision. These are the ingredients for creating something remarkable.
-            </p>
-            <p class = "text-sm-left">This website was developed to showcase my work and a bit of my personality. I'm an intrinsically creative person. I'm also highly competitive with mostly myself as my hobbies outside of academics include surfing, BMX, and powerlifting. In spite of all this, I try my best to never take myself too seriously. It's lent me ability to approach most endeavors with a go-getter attitude. 
-            
-            </p>    
-=======
-
             <p class = "text-sm-left">The truth is that I know almost nothing at all. Reading and studying shows that there's too much to learn and that humbles me. What matters more is having the constant curiosity of a student, giving your best effort in the face of adversity, and becoming a part of a team that shares a vision. These are the ingredients for creating something remarkable.
 
             </p>
             <p class = "text-sm-left"> I developed this website to showcase my work and a bit of my personality. I'm an intrinsically creative person and highly competitive with myself as my hobbies outside of academics are surfing, BMX, and powerlifting. In spite of all this, I try my best to never take myself too seriously. It's lent me a go-getter attitude in my approach to most endeavors. You can check out my designs and prototypes by clicking on the images below!
             </p>   
 
->>>>>>> c5157356298d3bdfc145c1a6456739826cd56de3
 	          </div>
 	        </div>
 	      </div>
@@ -245,7 +236,13 @@
 
 <!---------------------------------------------------------------------->
 	<div class="container">
-	  <h2 class="text-center">Book Reviews</h2>
+	  <h2 class="text-center">Books</h2>
+
+		<hr class = "divider">
+		<div class = "row">
+			<div class = "col-sm-12">
+				You can click on the images of the books to see my takeaways. Clicking on the textbooks should take you to notes and problems that I took on OneNote.
+
 	  	<br>
 		</br>
 		<div class="row">
@@ -254,6 +251,7 @@
 	      	<a class="portfolio-link" href="#portfolioModal8" data-toggle="modal">
 	          <img src="img\portfolio\lucifer.jpg" alt="Lights" style="width:100%">
 	          <div class="caption">
+
 	          </div>
 	    	</a>
 	      </div>
@@ -569,7 +567,7 @@
                   	</br>
               		</br>
                     
-                    Although I wasn't officially the team captain, I played fairly huge roles in the conception of this product such as brainstorming the original idea, designing the entire avionics and hardware in Solidworks, selecting and purchasing all of the electronic components, and troubleshooting the pre-built software to enable the plane to start. 
+                    I helped with brainstorming the original idea through motivating team members, designing the avionics and body hardware in Solidworks, managing our Bill of Materials, and assisting with troubleshooting the graphical user interface to actuate the avionics. 
               	</br>
               	  	<video 	controls="controls" 
               	  		 	width="600" 
@@ -590,7 +588,7 @@
               	  	</video>
 
                 	</br>  
-                	This was definitely a huge source of inspiration for studying computer science post graduation. The code written for the Pixhawk flight controller was open source and available on Github. Most of the software was written in C++ from an object-oriented design approach.
+                	The firmware written for the Pixhawk flight controller was open source and available on Github. Most of the software was object-oriented C++.
 
 
                   </p>
@@ -683,10 +681,10 @@
                   <img class="img-fluid img-centered" src="img/portfolio/hope.jpg" alt="">
 
                   <p class = "text-sm-left">
-                  	A simple hibiscus brings an otherwise dull product to life. This was made in my machining class where students were required to operate computerized milles, lathes, bandsaws, grinders, lasercutters, and more in our University's Machine Lab. Much geometric dimensioning & tolerancing was performed.
+                  	A simple hibiscus brings a hole puncher to life. This was made in my machining class where students were required to operate computerized milles, lathes, bandsaws, grinders, lasercutters, and more in our University's Machine Lab. I developed practical experience with geometric dimensioning and tolerancing..
                   </br> 
                   </br>
-                  In the same breadth, there was a Junior Design competition as part of a machining class where students were asked to form teams and use the Machine Lab to build a low-cost chair for theoretical field use in 3rd world countries. This should've taken the duration of 5-10 weeks to complete. Our team took 1 week; we didn't use any of the equipment in the Machine Lab - just garage tools that we owned and basic pvc piping from home depot; and took 3rd place in the overall competition. An engineer shouldn't have to reinvent the wheel. (That's me in the background doing a child's pose!)
+                  In the same breadth, there was a Junior Design competition as part of a machining class where students were asked to form teams and use the Machine Lab to build a low-cost chair for theoretical field use in 3rd world countries. This should've taken the duration of 5-10 weeks to complete. Our team took 1 week; we didn't use any of the equipment in the Machine Lab - just garage tools that we owned and basic pvc piping from home depot; and took 3rd place in the overall competition.
                   </br>
                   </br>
                   <img class="img-fluid img-centered" src="img/portfolio/chair.jpeg" alt="">
@@ -736,7 +734,7 @@
 
                   <p class = "text-sm-left">
 
-                  	I made this project with the intention of expressing my interest in mechanical design and its applications to the medical industry. The design was fun but particularly challenging as small geometries required attention to detail to function correctly.
+                  	I took inspiration from seeing amputees receive 3D printed prosthetic hands and decided to design and build one of my own. The design was fun but particularly challenging as small geometries required attention to detail to function correctly.
 
                 	</br>
               		</br>
@@ -1002,7 +1000,12 @@
 
 					<br>
 					</br>
-					Another interesting aspect of the study to note is the dual personality split that is recognized by Zimbardo among the prisoners. In the back of the prisoner’s mind, they’re aware that they’re just volunteers and should have the option of quitting any time. They must switch back and forth between the minds of the individual and the prisoner. The distinction becomes blurred. Are we prisoners or individuals of our own mind. (unfinished)
+					Dr. Zimbardo also noticed the dual personality split of the prisoners. In the depths of a prisoner's mind, he's aware of his true role in society but often blurs such a distinction as suggested by his personal diary. That leads into another question - to what extent do existing systems define who we are?
+
+<br>
+</br>
+
+(end of book review, more to add later)
        
               		</p>
                   <button class="btn btn-success" type="button" data-dismiss="modal">
