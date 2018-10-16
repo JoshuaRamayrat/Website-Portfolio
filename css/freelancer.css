@@ -1,3 +1,26 @@
+/*
+  I added this CSS code to implement a scroll menu for the literature books 
+*/
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
+/*
+  End of code fragment
+*/
 
 #contactform, .form {
     margin-top: 2rem;
@@ -331,12 +354,15 @@ header.masthead {
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px; }
-  #portfolio .portfolio-item .portfolio-link {
+  #portfolio .portfolio-item .portfolio-link 
+  {
     position: relative;
     display: block;
-    max-width: 400px;
+    max-width: 100px;
     margin: 0 auto;
-    cursor: pointer; }
+    cursor: pointer; 
+  }
+
     #portfolio .portfolio-item .portfolio-link .caption {
       position: absolute;
       width: 100%;
